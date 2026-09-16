@@ -13,7 +13,7 @@ Skip the installation and test my bioinformatics web applications live in your b
 ---
 
 ## 🎯 Overview
-Welcome to my bioinformatics portfolio repository. This suite combines rigorous biological domain expertise (medical genetics and molecular biology) with robust software engineering in Python, data science, and interactive web application development. Designed for researchers, biotech labs, and computational biology projects.
+Welcome to my genomics portfolio repository. This suite combines rigorous biological domain expertise (medical genetics and molecular biology) with robust software engineering in Python, data science, and interactive web application development. Designed for researchers, biotech labs, and computational biology projects.
 
 ---
 
